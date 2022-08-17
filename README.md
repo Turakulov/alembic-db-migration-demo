@@ -1,10 +1,8 @@
 ## Alembic generic single-database configuration for database schema migration
--------
 
 [Alembic documentation](https://alembic.sqlalchemy.org/en/latest/index.html)
 
 ### How to use
--------
 
 1) Install alembic using `pip`
 ```python
